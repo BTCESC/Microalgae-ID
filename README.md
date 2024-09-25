@@ -11,6 +11,7 @@ This is how you make a list, if you need one:
 ## How is it used?
 This model would not only optimize the cultivation process, being able to adjust various parameters according to the morphology of the plant. If not, we could also identify contamination or some microalgae that grow in the most wastewater samples. In this case, if we isolated this microalgae we would obtain greater productivity and treatment effectiveness. It would be useful for researchers and industrial projects.
 
+
 ## Data sources and AI methods
 We need data from all scientific studies and researchers who use microalgae in their projects.
 
