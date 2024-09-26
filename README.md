@@ -30,3 +30,5 @@ As for the code, we can optimize and customize an open source classifier that so
 # Prototype
 
 https://colab.research.google.com/drive/1OYCN9LAkLhu_G4t680vUSLxX-57F3OwM
+
+(The acuracy is very bad and the predictions aren´t correct, but is an example)
