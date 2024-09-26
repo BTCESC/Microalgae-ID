@@ -26,3 +26,7 @@ I would need help to optimize the code and collect the necessary images
 ## Acknowledgments
 
 As for the code, we can optimize and customize an open source classifier that someone has already developed
+
+# Prototype
+
+https://colab.research.google.com/drive/1OYCN9LAkLhu_G4t680vUSLxX-57F3OwM
